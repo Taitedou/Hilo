@@ -1,0 +1,16 @@
+C:\Users\benjp\Desktop\Coding\winter 2022\cse 210\Hilo\obj\Debug\net5.0\Hilo.csproj.AssemblyReference.cache
+C:\Users\benjp\Desktop\Coding\winter 2022\cse 210\Hilo\obj\Debug\net5.0\Hilo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benjp\Desktop\Coding\winter 2022\cse 210\Hilo\obj\Debug\net5.0\Hilo.AssemblyInfoInputs.cache
+C:\Users\benjp\Desktop\Coding\winter 2022\cse 210\Hilo\obj\Debug\net5.0\Hilo.AssemblyInfo.cs
+C:\Users\benjp\Desktop\Coding\winter 2022\cse 210\Hilo\obj\Debug\net5.0\Hilo.csproj.CoreCompileInputs.cache
+C:\Users\benjp\Desktop\Coding\winter 2022\cse 210\Hilo\bin\Debug\net5.0\Hilo.exe
+C:\Users\benjp\Desktop\Coding\winter 2022\cse 210\Hilo\bin\Debug\net5.0\Hilo.deps.json
+C:\Users\benjp\Desktop\Coding\winter 2022\cse 210\Hilo\bin\Debug\net5.0\Hilo.runtimeconfig.json
+C:\Users\benjp\Desktop\Coding\winter 2022\cse 210\Hilo\bin\Debug\net5.0\Hilo.runtimeconfig.dev.json
+C:\Users\benjp\Desktop\Coding\winter 2022\cse 210\Hilo\bin\Debug\net5.0\Hilo.dll
+C:\Users\benjp\Desktop\Coding\winter 2022\cse 210\Hilo\bin\Debug\net5.0\ref\Hilo.dll
+C:\Users\benjp\Desktop\Coding\winter 2022\cse 210\Hilo\bin\Debug\net5.0\Hilo.pdb
+C:\Users\benjp\Desktop\Coding\winter 2022\cse 210\Hilo\obj\Debug\net5.0\Hilo.dll
+C:\Users\benjp\Desktop\Coding\winter 2022\cse 210\Hilo\obj\Debug\net5.0\ref\Hilo.dll
+C:\Users\benjp\Desktop\Coding\winter 2022\cse 210\Hilo\obj\Debug\net5.0\Hilo.pdb
+C:\Users\benjp\Desktop\Coding\winter 2022\cse 210\Hilo\obj\Debug\net5.0\Hilo.genruntimeconfig.cache
